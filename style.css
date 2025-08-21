@@ -3,7 +3,7 @@ body{
     color: white;
     margin: 0;
     padding: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .titre {
@@ -17,6 +17,7 @@ body{
     align-items: center;
     float: right;
     margin-right: 300px;
+    font-weight: bold;
 }
 
 .nav-links {
@@ -40,6 +41,7 @@ body{
     border: 1px solid white;
     padding: 10px;
     margin-top: -10px;
+    font-weight: bold;
 }
 .container {
     margin: 120px;
@@ -118,7 +120,7 @@ body{
 .product-item {
     border: none;
     background: #333;
-    padding: 5px 80px;
+    padding: 5px 90px;
     border-radius: 40px;
 }
 .dezonnement {
