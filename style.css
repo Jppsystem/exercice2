@@ -1,0 +1,99 @@
+body{
+    background-color: #222;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titre {
+    font-weight: bold;
+    margin-left: 120px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: right;
+    margin-right: 300px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #eee;
+}
+.nav-links a:hover {
+    text-decoration: underline;
+    color: #29F;
+}
+.bouton {
+    background-color: #222;
+    border: 1px solid white;
+    padding: 10px;
+    margin-top: -10px;
+}
+.container {
+    margin: 120px;
+}
+.gris {
+    color: #ccc;
+}
+.bleu {
+    color: #29F;
+}
+.texte {
+    margin: 0;
+    float: left;
+    width: 50%;
+}
+.logo {
+    float: left;
+    width: 50%;
+}
+.Add {
+    background-color: #29F;
+    padding: 10px;
+    border: 1px solid #29F;
+    border-radius: 5px;
+}
+.Add a{
+    text-decoration: none;
+    color: white;
+}
+.Details {
+    background-color: #222;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+.Details a {
+    text-decoration: none;
+    color: white;
+}
+.Products {
+    text-align: center;
+    margin: 20px;
+}
+.first-title {
+    color: rgba(7, 131, 233, 0.3);
+    font-size: 40px;
+}
+.first-paragraph{
+    position: absolute;
+    display: inline-block;
+    margin: -95px;
+    left: 620px;
+    font-weight: bold;
+}
+.comments{
+    color: #29F;
+}
